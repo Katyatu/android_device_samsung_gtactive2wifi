@@ -1,2 +1,10 @@
-# android_device_samsung_gtactive2wifi
-[WIP] TWRP device tree for the Samsung Galaxy Tab Active 2 (gtactive2wifi) 
+# Android device tree for samsung SM-T390 (gtactive2wifi)
+
+```
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
